@@ -1,0 +1,2 @@
+grumphp:
+    tasks: { phpmd: null }
