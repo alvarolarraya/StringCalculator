@@ -7,7 +7,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9.3.10",
-        "phpro/grumphp": "^1.15"
+        "phpro/grumphp": "^1.15",
+        "phpmd/phpmd": "^2.13"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
