@@ -22,4 +22,10 @@ grumphp:
             exclude: []
             show_sniffs_error_path: true
         phpunit:
+            config_file: ~
+            testsuite: ~
+            group: []
+            exclude_group: []
+            always_execute: false
+            order: null
 
